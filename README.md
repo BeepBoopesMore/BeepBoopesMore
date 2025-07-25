@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there , i'm Baz and i am 18 years old.☕
 
-<!--
-**BeepBoopesMore/BeepBoopesMore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ # Currently have done work in :
+   - Rust 
+   - Python
+   - Sql
+   - Go 
+   
+# Goals until 2026 🚧
+ - My tcp protocol that is like a honeypot for my server
+ - Revamp my router and switch frame-work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Certificates currently 🎓 
+ - CCNA
+
